@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is an ATutor SCORM 1.2 Content Package document-->
+<!--Created from the ATutor Content Package Generator - http://www.atutor.ca-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-6e83852584c3ddec587ccd20d77b80f3" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema> 
+  	    <schemaversion>1.2</schemaversion>
+		<imsmd:lom>
+		  <imsmd:general>
+			<imsmd:title>
+			  <imsmd:langstring xml:lang="en">ME 001-1 - Fundamentals of Online Testing</imsmd:langstring>
+			</imsmd:title>
+			<imsmd:description>
+			  <imsmd:langstring xml:lang="en">The Marketing Experiments Online Testing Professional Certification Course is a seven–session online and on demand course that will give you the most important principles for testing online. 
+<br><br>
+<i><font color="red">Key Principles You Will Learn</font>
+<br>
+* What constitutes a valid sample size
+<br>
+* How to determine the best test design for your objective
+<br>
+* How to interpret your findings
+<br>
+* What to avoid when selecting a metrics vendor 
+<br>
+* How to calculate ROI based on your research
+<br>
+* The process and classification of testing
+</i></imsmd:langstring>
+			</imsmd:description>
+		  </imsmd:general>
+		  <imsmd:lifecycle>
+			<imsmd:contribute>
+			  <imsmd:role>
+			    <imsmd:source>
+			      <imsmd:langstring xml:lang="x-none">LOMv1.0</imsmd:langstring> 
+			    </imsmd:source>
+			    <imsmd:value>
+			      <imsmd:langstring xml:lang="x-none">Author</imsmd:langstring> 
+			    </imsmd:value>
+			  </imsmd:role>
+			  <imsmd:centity>
+			    <imsmd:vcard>BEGIN:VCARD
+VERSION:2.1
+N:;;admin1;;
+FN:admin1
+EMAIL;INTERNET:support@sourcefuse1.com
+NOTE;ENCODING=QUOTED-PRINTABLE:Originated from an ATutor at http://www.marketingexperiments.com/lab/. See =
+    ATutor.ca for additional information.
+URL:
+REV:2010-05-05T12:50:17Z
+END:VCARD
+</imsmd:vcard> 
+			  </imsmd:centity>
+			</imsmd:contribute>
+		  </imsmd:lifecycle>
+		  <imsmd:educational>
+			<imsmd:learningresourcetype>
+			  <imsmd:source>
+				<imsmd:langstring xml:lang="x-none">ATutor</imsmd:langstring>
+			  </imsmd:source>
+			  <imsmd:value>
+				<imsmd:langstring xml:lang="x-none">Content Module</imsmd:langstring>
+			  </imsmd:value>
+			</imsmd:learningresourcetype>
+		  </imsmd:educational>
+		  <imsmd:rights>
+		  </imsmd:rights>
+		</imsmd:lom>
+	</metadata>
+
+	<organizations default="MANIFEST01_ORG1">
+		<organization identifier="MANIFEST01_ORG1" structure="hierarchical">
+			<title>ME 001-1 - Fundamentals of Online Testing</title>
+                    <item identifier="MANIFEST01_ITEM476" identifierref="MANIFEST01_RESOURCE476" parameters="">
+                        <title>Session 1 - Orientation and Introduction to Utility</title>
+                        <item identifier="MANIFEST01_ITEM485" identifierref="MANIFEST01_RESOURCE485" parameters="">
+                                <title>Research Brief - A/B Split Testing</title>
+                        </item>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM477" identifierref="MANIFEST01_RESOURCE477" parameters="">
+                            <title>Session 2 - The Research Question</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM478" identifierref="MANIFEST01_RESOURCE478" parameters="">
+                            <title>Session 3 - Treatment</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM479" identifierref="MANIFEST01_RESOURCE479" parameters="">
+                            <title>Session 4 - Metrics and Validation part 1</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM480" identifierref="MANIFEST01_RESOURCE480" parameters="">
+                            <title>Session 5 - Validation Part 2</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM481" identifierref="MANIFEST01_RESOURCE481" parameters="">
+                            <title>Session 6 - Validation Part 3</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM482" identifierref="MANIFEST01_RESOURCE482" parameters="">
+                            <title>Session 7 - Metrics Part 2 and Interpretation</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM483" identifierref="MANIFEST01_RESOURCE483" parameters="">
+                            <title>Session 8 - Exam Prep</title>
+                    </item>
+                    <item identifier="MANIFEST01_ITEM484" identifierref="MANIFEST01_RESOURCE484" parameters="">
+                            <title>Final Exam</title>
+                    </item>
+
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="MANIFEST01_RESOURCE476" type="webcontent" href="resources/476.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/476.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE485" type="webcontent" href="resources/485.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/485.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE477" type="webcontent" href="resources/477.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/477.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE478" type="webcontent" href="resources/478.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/478.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE479" type="webcontent" href="resources/479.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/479.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE480" type="webcontent" href="resources/480.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/480.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE481" type="webcontent" href="resources/481.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/481.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE482" type="webcontent" href="resources/482.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/482.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE483" type="webcontent" href="resources/483.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/483.html"/>
+
+		</resource>
+
+		<resource identifier="MANIFEST01_RESOURCE484" type="webcontent" href="resources/484.html"  adlcp:scormtype="asset">
+			<metadata/>
+			<file href="resources/484.html"/>
+
+		</resource>
+
+
+	</resources>
+</manifest>

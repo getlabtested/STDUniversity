@@ -1,0 +1,432 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR StudioPress
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Education 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/education_10\n"
+"POT-Creation-Date: 2009-05-28 19:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:11
+msgid "We're sorry, that page was not found - Error 404"
+msgstr ""
+
+#: 404.php:14
+msgid "Don't worry though!"
+msgstr ""
+
+#: 404.php:14
+msgid "A few tips for you to find it:"
+msgstr ""
+
+#: 404.php:18 404.php:20
+msgid "Search"
+msgstr ""
+
+#: 404.php:18
+msgid "for it"
+msgstr ""
+
+#: 404.php:24
+msgid "If you typed in a URL..."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"make sure the spelling, cApitALiZaTiOn, and punctuation are correct. Then "
+"try reloading the page."
+msgstr ""
+
+#: 404.php:27
+msgid "Search the <strong>site archives</strong> by page, month, or category:"
+msgstr ""
+
+#: 404.php:28 page_archive.php:21
+msgid "by page:"
+msgstr ""
+
+#: 404.php:33 page_archive.php:26
+msgid "by month:"
+msgstr ""
+
+#: 404.php:38 page_archive.php:31
+msgid "by category:"
+msgstr ""
+
+#: 404.php:44
+msgid "Start over again"
+msgstr ""
+
+#: 404.php:44
+msgid "at the"
+msgstr ""
+
+#: 404.php:44
+msgid "homepage"
+msgstr ""
+
+#: archive.php:17 footer.php:16 index.php:17 page_blog.php:24 search.php:17
+#: single.php:17 tag.php:17
+msgid "by"
+msgstr ""
+
+#: archive.php:17 index.php:17 page_blog.php:24 page_fullwidth.php:20
+#: page.php:14 single.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: archive.php:17 index.php:17 search.php:17 single.php:17 tag.php:17
+msgid "Filed under"
+msgstr ""
+
+#: archive.php:21 index.php:21 page_blog.php:28 search.php:21 single.php:21
+#: tag.php:21
+msgid "Leave a Comment"
+msgstr ""
+
+#: archive.php:21 index.php:21 page_blog.php:28 search.php:21 single.php:21
+#: tag.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:21 index.php:21 page_blog.php:28 search.php:21 single.php:21
+#: tag.php:21
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:28 index.php:28 page_fullwidth.php:20 page.php:14 search.php:28
+#: single.php:28 tag.php:28
+msgid "Read more"
+msgstr ""
+
+#: archive.php:38 index.php:42 page_fullwidth.php:23 page.php:17 search.php:38
+#: single.php:42 tag.php:38
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: archive.php:39 search.php:39 tag.php:39
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: archive.php:39 search.php:39 tag.php:39
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: breadcrumb.php:1 header.php:85 page_fullwidth.php:15
+msgid "Home"
+msgstr ""
+
+#: comments.php:12 legacy.comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:21 header.php:49
+msgid "Comments"
+msgstr ""
+
+#: comments.php:22 legacy.comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:22 legacy.comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:22 legacy.comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:22 legacy.comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:32 legacy.comments.php:58
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:33
+msgid "Check out what others are saying about this post..."
+msgstr ""
+
+#: comments.php:46 legacy.comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+msgid "Speak Your Mind"
+msgstr ""
+
+#: comments.php:57 legacy.comments.php:84
+msgid "Tell us what you're thinking..."
+msgstr ""
+
+#: comments.php:57
+msgid ""
+"and oh, if you want a pic to show with your comment, go get a <a rel="
+"\"nofollow\" href=\"http://en.gravatar.com\" >gravatar</a>!"
+msgstr ""
+
+#: comments.php:64 legacy.comments.php:87
+msgid "You must be"
+msgstr ""
+
+#: comments.php:64 legacy.comments.php:87
+msgid "logged in"
+msgstr ""
+
+#: comments.php:64 legacy.comments.php:87
+msgid "to post a comment"
+msgstr ""
+
+#: comments.php:71 legacy.comments.php:94
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:71 legacy.comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:71
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:76 legacy.comments.php:99
+msgid "Name"
+msgstr ""
+
+#: comments.php:76 comments.php:79 legacy.comments.php:99
+#: legacy.comments.php:102
+msgid "(required)"
+msgstr ""
+
+#: comments.php:79 legacy.comments.php:102
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:82 legacy.comments.php:105
+msgid "Website"
+msgstr ""
+
+#: comments.php:90 legacy.comments.php:113
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:12
+msgid "Return to top of page"
+msgstr ""
+
+#: footer.php:16
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:16
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:16
+msgid "Powered by"
+msgstr ""
+
+#: functions.php:52 functions.php:71
+msgid "Read More"
+msgstr ""
+
+#: header.php:48
+msgid "News Feed"
+msgstr ""
+
+#: header.php:74
+msgid "Advertisement"
+msgstr ""
+
+#: header.php:93
+msgid "Search this website..."
+msgstr ""
+
+#: header.php:94
+msgid "GO"
+msgstr ""
+
+#: home.php:34
+msgid "Read more of this article"
+msgstr ""
+
+#: home.php:40
+msgid "Read More Posts in"
+msgstr ""
+
+#: legacy.comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: legacy.comments.php:40
+msgid "at"
+msgstr ""
+
+#: legacy.comments.php:84
+msgid ""
+"and oh, if you want a pic to show with your comment, go get a <a href="
+"\"http://en.gravatar.com\" >gravatar</a>!"
+msgstr ""
+
+#: legacy.comments.php:94
+msgid "Log out"
+msgstr ""
+
+#: legacy.comments.php:109
+msgid "You can use these tags"
+msgstr ""
+
+#: page_archive.php:17
+msgid "Site Archives"
+msgstr ""
+
+#: page_archive.php:40
+msgid "by post:"
+msgstr ""
+
+#: page_blog.php:33
+msgid "[Read more]"
+msgstr ""
+
+#: page_blog.php:38
+msgid "Filed Under: "
+msgstr ""
+
+#: page_blog.php:39
+msgid "Tagged:"
+msgstr ""
+
+#: search.php:33 single.php:33 tag.php:33
+msgid "Tags:"
+msgstr ""
+
+#: sidebar_home.php:10
+msgid "Text Widget"
+msgstr ""
+
+#: sidebar_home.php:11
+msgid ""
+"This is an example of a text widget that you can place to describe your "
+"website. Use it as a way to get your site visitors interested, so they can "
+"click through and read more about it. This is a great place to spotlight "
+"important information that you want people to know about."
+msgstr ""
+
+#: sidebar_home.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Select Category"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:32
+msgid "Blogroll"
+msgstr ""
+
+#: sidebar.php:39
+msgid "Admin"
+msgstr ""
+
+#: tools/breadcrumbs.php:10
+msgid "You are here:"
+msgstr ""
+
+#: tools/breadcrumbs.php:11
+msgid "Archives for"
+msgstr ""
+
+#: tools/breadcrumbs.php:12
+msgid "Search for"
+msgstr ""
+
+#: tools/theme-options.php:56 tools/theme-options.php:59
+#: tools/theme-options.php:64
+msgid "Theme Options"
+msgstr ""
+
+#: tools/theme-options.php:56
+msgid "RESET TO DEFAULTS"
+msgstr ""
+
+#: tools/theme-options.php:59
+msgid "SAVED"
+msgstr ""
+
+#: tools/theme-options.php:73
+msgid "Select from the following:"
+msgstr ""
+
+#: tools/theme-options.php:75
+msgid "Use an image logo"
+msgstr ""
+
+#: tools/theme-options.php:76
+msgid "Use dynamic text"
+msgstr ""
+
+#: tools/theme-options.php:82
+msgid "Homepage Featured Left"
+msgstr ""
+
+#: tools/theme-options.php:84 tools/theme-options.php:98
+msgid "Select which category you want displayed:"
+msgstr ""
+
+#: tools/theme-options.php:87
+msgid "Number of posts to show:"
+msgstr ""
+
+#: tools/theme-options.php:90
+msgid "Thumbnail dimensions (Width x Height)"
+msgstr ""
+
+#: tools/theme-options.php:96
+msgid "Blog Page Template"
+msgstr ""
+
+#: tools/theme-options.php:101
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: tools/theme-options.php:107
+msgid "Save Settings"
+msgstr ""
+
+#: tools/theme-options.php:108
+msgid "Reset Settings"
+msgstr ""
+
+#. Theme Name of an extension
+msgid "Education"
+msgstr ""
+
+#. Description of an extension
+msgid "Education is a 2-column Widget-ready theme created for WordPress."
+msgstr ""
+
+#. Author of an extension
+msgid "StudioPress"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.studiopress.com"
+msgstr ""
+
+#. Tags of an extension
+msgid "two columns, fixed width, white, tan, teal, purple, sidebar widgets"
+msgstr ""
